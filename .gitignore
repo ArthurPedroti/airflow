@@ -1,0 +1,6 @@
+airflow-local/venv
+airflow-local/logs
+airflow-local/standalone_admin_password.txt
+airflow-local/venv
+airflow-local/standalone_admin_password.txt
+airflow-docker/logs
